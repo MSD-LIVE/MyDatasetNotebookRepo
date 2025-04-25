@@ -11,22 +11,25 @@ Disdrometers are also beneficial for cross-checks with other instrumentation, in
 
 The LDQUANTS dataset includes data collected over the following locations and time ranges:
 
-site	facility	start_date	end_date
-guc	M1	2021-09-01	2023-06-15
-guc	S2	2021-09-03	2023-06-15
-ena	C1	2014-02-27	2023-12-18
-hou	M1	2021-08-05	2022-09-30
-hou	S1	2021-08-18	2022-10-01
-hou	S2	2022-04-12	2022-05-12
-hou	S3	2022-05-05	2022-09-30
-epc	M1	2023-01-15	2023-12-10
-epc	S2	2023-01-15	2023-12-10
-mao	S10	2014-09-24	2015-12-01
-sgp	C1	2016-11-02	2023-12-18
-sgp	E13	2016-11-04	2023-09-28
-sgp	I10	2016-11-28	2023-09-28
-sgp	I8	2016-12-05	2023-09-28
-sgp	I9	2016-11-28	2023-09-28
+
+
+| site | facility | start_date | end_date   |
+| :--- | :------- | :--------- | :--------- |
+| guc  | M1       | 2021-09-01 | 2023-06-15 |
+| guc  | S2       | 2021-09-03 | 2023-06-15 |
+| ena  | C1       | 2014-02-27 | 2023-12-18 |
+| hou  | M1       | 2021-08-05 | 2022-09-30 |
+| hou  | S1       | 2021-08-18 | 2022-10-01 |
+| hou  | S2       | 2022-04-12 | 2022-05-12 |
+| hou  | S3       | 2022-05-05 | 2022-09-30 |
+| epc  | M1       | 2023-01-15 | 2023-12-10 |
+| epc  | S2       | 2023-01-15 | 2023-12-10 |
+| mao  | S10      | 2014-09-24 | 2015-12-01 |
+| sgp  | C1       | 2016-11-02 | 2023-12-18 |
+| sgp  | E13      | 2016-11-04 | 2023-09-28 |
+| sgp  | I10      | 2016-11-28 | 2023-09-28 |
+| sgp  | I8       | 2016-12-05 | 2023-09-28 |
+| sgp  | I9       | 2016-11-28 | 2023-09-28 |
 Exploring Variables
 To explore plots of this dataset's variables for a specific location and specified time range, please open the Data Analysis Notebook
 
